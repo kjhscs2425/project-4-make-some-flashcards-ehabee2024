@@ -1,4 +1,3 @@
-print("cat")
 print("what is the captial of France")
 response = input()
 print(f"{response = }")
