@@ -1,15 +1,16 @@
 1. Write at least 3 questions and answers:
 
-Q1:
-A1:
+Q1: What is the capital of France?
+A1: Paris
 
-Q2:
-A2:
+Q2: What year did the Berlin Wall come down?
+A2: 1989
 
-Q3:
-A3:
+Q3: What is the chemical symbol for water?
+A3: H2O
 
 2. How many times will you show each flashcard the first time the user runs your flashcards program?
+I will show it 
 
 3. How will the number of times you show each flashcard change the second time the user runs the program, based on their performance the previous time?
 
