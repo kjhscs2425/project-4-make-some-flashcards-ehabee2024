@@ -47,7 +47,15 @@ ask_question("What year did the USA drop the atomic bomb on Hiroshima" ,"1945")
 ask_question("What is the chemical symbol for hydroxide", "OH-")
 ask_question("What city is the center of Europe" ,"Bernotai in Lithuania")
 ask_question("What year was the city of Barcelona founded" , "1899")
-
+ask_question("When did the first gamboy come out" , "April 21 1989")
+ask_question("What city will host the 2026 Super Bowl" , "San Francisco")
+ask_question("What day was the 1994 Northridge Earthquake" , "January 17th")
+ask_question("What is your favorite class" , "Computer Science")
+ask_question("What is the population of New York City" , "8.258 Million")
+ask_question("What is your favorite animal" , "Dogs")
+ask_question("Who made the first car" , "Henry Ford")
+ask_question("How old is Dr EB" , "39")
+ask_question("What is you favorite food" , "Pasta")
 
 import json
 with open("responses.json", "w") as f:
